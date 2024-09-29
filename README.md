@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Smart contract Lottery for Solidity learning
-=======
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
